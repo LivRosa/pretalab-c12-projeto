@@ -1,0 +1,6 @@
+Olá!
+
+Sou a Lívia e faço parte do ciclo 12 do Pretalab.
+
+Minha expectativa com o curso é que eu no final eu entenda os conceitos básicos sobre desenvolvimento web e lógica de programação!
+Nesses primeiros commits estamos aprendendo sobre o Git e GitHub com a professora Lisandra Cruz. :) 
